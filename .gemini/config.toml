@@ -1,3 +1,0 @@
-[commands."notes:process-inbox"]
-description = "Process inbox.md: Archive notes, keep todos, and log changes."
-message = "Activate the process-inbox skill and start the organization workflow."
