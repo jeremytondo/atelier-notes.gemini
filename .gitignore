@@ -1,0 +1,11 @@
+# Ignore all files by default. 
+# This helps ensure we don't store any actual notes in git.
+*
+
+# Files we do want to track in get are set up here as exceptions. 
+
+!.gitignore
+!.gemini/
+!.gemini/**
+
+
